@@ -1,0 +1,7 @@
+db2 create database sample
+
+db2top
+db2pd
+db2wdog
+db2hadr
+db2pd -
