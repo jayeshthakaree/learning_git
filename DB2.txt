@@ -5,3 +5,4 @@ db2pd
 db2wdog
 db2hadr
 db2pd -
+db2pd -wlocks
