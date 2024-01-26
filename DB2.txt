@@ -6,3 +6,4 @@ db2wdog
 db2hadr
 db2pd -
 db2pd -wlocks
+db2pd -d databasename -log
