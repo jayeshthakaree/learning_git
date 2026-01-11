@@ -7,3 +7,5 @@ notes for db2
 notes for postgres
 notes for ansible
 
+
+# Jayesh Thakare
